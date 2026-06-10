@@ -2,7 +2,7 @@ import { letters, wordPuzzles } from "./letters.js"
 
 
 
-let START_DATE = new Date('2026-06-01');
+let START_DATE = new Date('2026-06-10');
 
 let currentDay = 1;
 let selectedLetter = null;
